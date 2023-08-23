@@ -3,7 +3,7 @@
 <h3 align="center">Mix of nuclear physics, electronics and programming <img align="center" src="rad.png" alt="c" width="25" heigth="25"/></h3>
 
 
-## 🛠️ My Skills
+## 🛠️ Skills
 <img align="center" src="Geant4.PNG" alt="Geant4" width="120" heigth="40"/>&nbsp;
 <img align="center" src="c.png" alt="c" width="40" heigth="40"/>&nbsp;
 <img align="center" src="cpp.png" alt="cpp" width="45" heigth="45"/>&nbsp;
