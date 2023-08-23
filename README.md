@@ -21,13 +21,12 @@
 
 ## 🔉 Connect with me 
 <p align="left">
-  <a href="https://instagram.com/naskaden_" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
+    <a href="https://t.me/naskaden" target="blank"><img align="center"
+      src="tg.png"
+      alt="naskaden" height="30" width="30" /></a>
+  <a href="https://instagram.com/naskaden_" target="blank"><img align="center" 
+     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+     alt="naskaden" height="30" width="40" /></a>
   
 </p>
 
