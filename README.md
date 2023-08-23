@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Anastasiia👋</h1>
 <p align="center"><img src="fallout.png" alt="fallout" width="200" heigth="200"/></p>
-<h3 align="center">Mix of nuclear physics, electronics and programming <img src="radiation.png" alt="c" width="40" heigth="40"/></h3>
+<h3 align="center">Mix of nuclear physics, electronics and programming <img align="center" src="rad.png" alt="c" width="25" heigth="25"/></h3>
 
 
 ## 🛠️ My Skills
