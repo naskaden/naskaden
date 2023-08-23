@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anastasiia👋</h1>
-<img src="https://github.com/naskaden/naskaden/fallout.png"/>
+<p align="center"><img src="fallout.png" alt="fallout" width="200" heigth="200"/></p>
 <img src="https://geant4.org/assets/logo/g4logo-full-500x167.png" alt="Geant4" width="111" heigth="37"/>
 
 
