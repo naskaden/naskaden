@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Anastasiia👋</h1>
 <p align="center"><img src="fallout.png" alt="fallout" width="200" heigth="200"/></p>
-<h3 align="center">I'm a mix of nuclear physics, electronics and programming</h3>
+<h3 align="center">Mix of nuclear physics, electronics and programming <img src="radiation.png" alt="c" width="40" heigth="40"/></h3>
 
 
 ## 🛠️ My Skills
@@ -9,7 +9,6 @@
 <img src="cpp.png" alt="cpp" width="45" heigth="45"/>&nbsp;
 <img src="python.png" alt="cpp" width="45" heigth="45"/>&nbsp;
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ## 📊 Statistics
 
