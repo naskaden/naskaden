@@ -7,8 +7,8 @@
 <img align="center" src="Geant4.PNG" alt="Geant4" width="120" heigth="40"/>&nbsp;
 <img align="center" src="c.png" alt="c" width="40" heigth="40"/>&nbsp;
 <img align="center" src="cpp.png" alt="cpp" width="45" heigth="45"/>&nbsp;
-<img align="center" src="asm.png" alt="cpp" width="50" heigth="50"/>&nbsp;
-<img align="center" src="matlab.png" alt="cpp" width="70" heigth="70"/>&nbsp;
+<img align="center" src="asm.png" alt="cpp" width="60" heigth="60"/>&nbsp;
+<img align="center" src="matlab.png" alt="cpp" width="50" heigth="50"/>&nbsp;
 <img align="center" src="python.png" alt="cpp" width="45" heigth="45"/>&nbsp;
 
 
